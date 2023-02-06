@@ -1,0 +1,3 @@
+pip install -r requirements.txt
+
+go to shell and type "kill 1" if you are being rate limited.

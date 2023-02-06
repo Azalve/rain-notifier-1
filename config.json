@@ -1,0 +1,6 @@
+{
+  "windows_notification": "False",
+  "webhook_enabled": "True",
+  "webhook":"https://discord.com/api/webhooks/1071268691674673213/rJvKCMlhCx28jfDc-31RVE_V7bUu--P44PAn70Hq5pl7nfOo1dw0mZMJrR8VLsLYUeTM",
+  "flask": "True"
+}
