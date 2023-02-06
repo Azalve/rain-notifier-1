@@ -4,8 +4,8 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 from discord_webhook import DiscordWebhook, DiscordEmbed
 from selenium.webdriver.chrome.options import Options
-from keep_alive import keep_alive
-keep_alive()
+# from keep_alive import keep_alive
+# keep_alive()
 
 
 with open("config.json", "r") as config:
