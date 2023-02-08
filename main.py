@@ -20,8 +20,8 @@ winnotif = config['windows_notification']
 chrome_options = Options()
 chrome_options.add_argument('--no-sandbox')
 chrome_options.add_argument('--disable-dev-shm-usage')
-# driver = webdriver.Chrome(options=chrome_options)
-driver = webdriver.Chrome('/usr/bin/chromedriver')
+driver = webdriver.Chrome(options=chrome_options)
+# driver = webdriver.Chrome('/usr/bin/chromedriver')
 driver.implicitly_wait(10)
 
 while True:
