@@ -1,6 +1,7 @@
 # Bloxflip-rain-notifier
 
 ## THIS IS A CUSTOM VERSION I AM BUILDING FOR AWS EC2, SO DO NOT DOWNLOAD THIS, GO TO ANOTHER GITHUB PAGE.
+But if you're still curious about this, no, it still doesn't work. Something about chromium being stupid but I'm debugging it.
 
 ## Information:
 - When there is a rain at [bloxflip](https://bloxflip.com) this program will notify you about the rain with some information about it
